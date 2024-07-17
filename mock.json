@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "categoria": "frontend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "descricao": "3,2 mil visualizações"
+    },
+    {
+      "id": "2",
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "categoria": "mobile",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "descricao": "1,5 mil visualizações"
+    },
+    {
+      "id": "3",
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "categoria": "backend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "descricao": "30 mil visualizações"
+    },
+    {
+      "id": "4",
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "categoria": "backend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "descricao": "2,5 mil visualizações"
+    },
+    {
+      "id": "5",
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "categoria": "frontend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "descricao": "1,2 mil visualizações"
+    },
+    {
+      "id": "6",
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "categoria": "mobile",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "descricao": "1,6 mil visualizações"
+    },
+    {
+      "id": "7",
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "categoria": "backend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "descricao": "3,2 mil visualizações"
+    },
+    {
+      "id": "8",
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "categoria": "frontend",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "descricao": "1,2 mil visualizações"
+    },
+    {
+      "id": "9",
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "categoria": "mobile",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "descricao": "1 mil visualizações"
+    },
+    {
+      "id": "10",
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "categoria": "mobile",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
+      "descricao": "2 mil visualizações"
+    },
+    {
+      "id": "11",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "categoria": "backend",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "descricao": "5 mil visualizações"
+    },
+    {
+      "id": "12",
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "categoria": "frontend",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "descricao": "1 mil visualizações"
+    }
+  ]
+}
